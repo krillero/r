@@ -5,3 +5,5 @@
 
 #plot OHLC
 #plot_ly(x = Date, type="ohlc", open = Openprice, close = Closeprice, high = Highprice, low = Lowprice)
+
+#tutorial: https://ntguardian.wordpress.com/2017/03/27/introduction-stock-market-data-r-1/
